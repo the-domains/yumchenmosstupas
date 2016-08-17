@@ -1,7 +1,7 @@
 name: YumChenmosStupas
 favicon: null
-layout_spectrum: 0.15093101281672716
-typography_spectrum: 0.21498488169163465
+layout_spectrum: 0.99736
+typography_spectrum: 0.68598
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.15037766587920487
-  lightness: 0.32700771698728204
-  saturation: 0.7765407219994813
+    - '#011aff'
+    - '#ff0100'
+    - '#dcc100'
+    - '#3ef700'
+    - '#ffffff'
+  brandStrength: 1
+  lightness: 0.375
+  saturation: 0.6875
   rhythmicContrast: 0.016630412312224507
 purpose: []
