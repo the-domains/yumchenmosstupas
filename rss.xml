@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Yum Chenmo's Stupas]]></title>
+        <description><![CDATA[Yum Chenmo's Stupas]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 22:33:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yum Chenmo's Stupas: Dorje Lopon]]></title>
+            <description><![CDATA[<article><h1>Yum Chenmo's Stupas: Dorje Lopon</h1><p>On August 4, 2016, I began building a 17 foot Tibetan Buddhist Stupa for Tulku Sang-Nang Rinpoche which will be consecrated at the Academy for the Love of Learning in Santa Fe, New Mexico. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b506ad8-0540-44e2-8321-fd9cc927a115.jpg"></article>]]></description>
+            <link>undefinedyum-chenmos-stupas-dorje-lopon/index.html</link>
+            <guid isPermaLink="false">afdc3d43-4356-46fc-880d-6085b20608bc</guid>
+            <pubDate>Wed, 17 Aug 2016 22:33:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
